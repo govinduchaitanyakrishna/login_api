@@ -1,2 +1,4 @@
-var mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://govinduchaitanya3:1234@cluster0.jmt1h.mongodb.net/loginapi?retryWrites=true&w=majority');
+var mongoose = require("mongoose");
+mongoose.connect(
+  "mongodb+srv://m001-student:vedantu123@sandbox.cou6h.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+);
